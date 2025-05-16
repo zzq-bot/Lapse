@@ -1,0 +1,8 @@
+tqdm
+wandb
+gym==0.23.1
+cython<3
+mujoco==2.3.3
+mujoco-py
+numpy==1.21.6
+pandas
