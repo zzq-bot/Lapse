@@ -1,8 +1,8 @@
 # Learning to Reuse Policies in State Evolvable Environments
 
-We present **Lapse**, addressing the challenge of state evolvable environments in reinforcement learning with the formulation of SERL. Lapse successfully combines a robust policy and an adaptive policy through state reconstruction and offline learning via policy reuse in two different aspects, thus avoiding the need for extensive trial-and-error during deployment.
+This repository contains the official implementation of **Lapse**, addressing the challenge of state evolvable environments in reinforcement learning with the formulation of SERL. Lapse successfully combines a robust policy and an adaptive policy through state reconstruction and offline learning via policy reuse in two different aspects, thus avoiding the need for extensive trial-and-error during deployment.
 
-![image-20250129212827051](/Users/zzq-bot/Library/Application Support/typora-user-images/image-20250129212827051.png)
+![image-20250129212827051](./lapse.png)
 
 ## Installation instructions
 
