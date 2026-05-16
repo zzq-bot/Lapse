@@ -1,5 +1,8 @@
 # Learning to Reuse Policies in State Evolvable Environments
 
+## Update of Paper
+‼️‼️ We fix some fundamental and stupid errors in theoretical justifications and upload the paper as `lapse.pdf` ‼️‼️ 
+
 This repository contains the official implementation of **Lapse**, addressing the challenge of state evolvable environments in reinforcement learning with the formulation of SERL. Lapse successfully combines a robust policy and an adaptive policy through state reconstruction and offline learning via policy reuse in two different aspects, thus avoiding the need for extensive trial-and-error during deployment.
 
 ![image-20250129212827051](./lapse.png)
